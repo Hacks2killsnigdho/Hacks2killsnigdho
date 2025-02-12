@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snigdho Chanakya</h1>
 <h3 align="center">A passionate backend developer from India</h3> 
-<table align="center">
-<tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/jain-rithik/count.svg" alt="" /></td>
-  </tr>
-</table>
-<br>
+
+
 
 
 <img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">
