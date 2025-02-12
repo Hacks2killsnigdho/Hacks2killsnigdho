@@ -1,5 +1,5 @@
 ![logo](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
-<h1 align="center">Hi 👋, I'm Rithik Jain</h1>
+<h1 align="center">Hi 👋, I'm Snigdho Bachar</h1>
 <h3 align="center">A Passionate Web Developer | Seeking Collaborative Opportunities</h3>
 <table align="center">
   <tr>
