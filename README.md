@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Snigdho Chanakya</h1>
+<h1 align="center">Hi 👋, I'm Snigdho Chanakya</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">
