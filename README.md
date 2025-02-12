@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Snigdho Chanakya</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3<tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/jain-rithik/count.svg" alt="" /></td>
+  </tr>
+</table>
+<br>
+
 
 <img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">
 
@@ -16,7 +22,7 @@
 
 - 💬 Ask me about **html,css,Node.js,express.js,PostgreSQL**
 
-- 📫 How to reach me **snigdho442@gmai.com**
+- 📫 How to reach me **snigdho442@gmail.com**
 
 - ⚡ Fun fact **I creat many kind of amazing data server using API's**
 
